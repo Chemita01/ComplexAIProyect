@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+Market_IA_Proyect.rar filter=lfs diff=lfs merge=lfs -text
